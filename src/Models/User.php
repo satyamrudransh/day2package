@@ -1,6 +1,6 @@
 <?php
 
-namespace Mac\Contact\Models;
+namespace Satyam\Contact\Models;
 
 use Illuminate\Database\Eloquent\Model;
 // use Illuminate\Database\Eloquent\SoftDeletes;

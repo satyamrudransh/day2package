@@ -1,7 +1,7 @@
 <?php
 
-namespace Mac\Contact\Http\Controller;
-use Mac\Contact\Models\User;
+namespace Satyam\Contact\Http\Controller;
+use Satyam\Contact\Models\User;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 

@@ -1,5 +1,5 @@
 {
-    "name": "mac/contact",
+    "name": "satyam/contact",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -8,11 +8,18 @@
             "email": "satyam.sahu@thehigherpitch.com"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Satyam\\Contact\\ContactServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
-            "Mac\\Contact\\": "src/"
+            "Satyam\\Contact\\": "src/"
         }
     }
 }

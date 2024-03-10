@@ -1,6 +1,6 @@
 <?php
 
-namespace Mac\Contact;
+namespace Satyam\Contact;
 
 use Illuminate\Support\ServiceProvider;
 
